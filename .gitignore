@@ -1,0 +1,13 @@
+# Byte-compiled files
+*.pyc
+__pycache__/
+
+# Virtual environment
+venv/
+
+# Streamlit
+.streamlit/
+
+# System files
+.DS_Store
+*.swp
